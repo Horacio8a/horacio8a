@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Horacio Zamora.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>👨🏻‍💻 Hola, soy Horacio Zamora</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" width=280px alt="pinki y cerebro" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRnMTU0a3J0dHRobGlnamkzY3hjc3NkcjlrcjJ4b2Zta2dhNndwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mKBXLpYeLzUY/giphy.webp" />
 
@@ -30,8 +30,8 @@ Me apasiona el desarrollo web, enfocándome tanto en el front-end como en el bac
 
 </span>
 
-<h2>Estadísticas de Github:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=horacio8a&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/horacio8a)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=horacio8a&theme=material-palenight)](https://github.com/horacio8a)
+## <div >
+   
+   ![horacio8a GitHub stats](https://github-readme-stats.vercel.app/api?username=horacio8a&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
 </div>
