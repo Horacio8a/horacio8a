@@ -10,7 +10,7 @@ Me apasiona el desarrollo web, enfocándome tanto en el front-end como en el bac
   - Node.js
   - React
 - Más allá del mundo de la tecnología, 💪 disfruto hacer ejercicio, 🎮 jugar videojuegos, 🎵 escuchar música.
-- 📫 Si quieres contactar conmigo, puedes escribirme a: <a href="zhoracio8a@gmail.co">zhoracio8a@gmail.com</a>
+- 📫 Si quieres contactar conmigo, puedes escribirme a: <a href="8ahoraciodev@gmail.com">8ahoraciodev@gmail.com</a>
 
 ## Mis habilidades incluyen
 
